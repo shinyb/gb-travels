@@ -14,7 +14,7 @@ export default [
         id: 2,
       title: "Morton Arboretum",
         location: "Lisle, Illinois",
-        googleMapsUrl: "https://goo.gl/maps/V7jK8ia1AtoP2JLk6",
+        googleMapsUrl: https://goo.gl/maps/YdihpVPioQgy8XCG6,
         startDate: "9 Aug, 2019",
         endDate: "11 Aug, 2019",
        description: "'Heartwood' is one of the five sculptures installed at various locations at the Morton Arboretum. The Arboretum features plant collections and gardens amid natural landscapes of woodlands, prairie, lakes, and streams. Its living collections include 222,000 plant specimens representing 4,650 different kinds of plants.",
